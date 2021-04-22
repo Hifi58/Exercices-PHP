@@ -11,7 +11,7 @@
     <form action="multiplication.php" method="get" class="form-example">
     <input type="text" title="nombre 1" value="Nombre 1">
     <p>x</p>
-    <input type="text" title="nombre 2" value="Nombre2">
+    <input type="text" title="nombre 2" value="Nombre 2">
     <p>=</p>
     <button>Résultat</button>
     </form>
